@@ -1,0 +1,225 @@
+body {
+  height: 100vh;
+  font-family: 'Inter', sans-serif;
+
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
+
+
+/*Classes para mudar a cor */
+.light {
+  background-color: white;
+  color: black;
+}
+
+.light * {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.dark * {
+  background-color: black;
+  color: white;
+}
+
+
+/*Classes para mudar a elementos */
+input, textarea, button{
+  border: 1px solid gray;
+  border-radius: 10px;
+}
+
+button, textarea {
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button {
+  font-weight: 500; /* Peso intermediário para botões */
+}
+
+h1, h2, h3{
+  font-weight: 700;
+}
+
+p {
+  font-weight: 400; /* Peso normal para parágrafos */
+}
+
+a{
+  text-decoration: none;
+}
+h1{
+  font-size: 50px;
+}
+
+h2{
+  font-size: 40px;
+}
+
+
+
+/*Header*/
+.Header{
+  display: flex;
+  justify-content: space-between;
+  padding: 1%;
+}
+.Header button{
+  width: auto;
+}
+
+.buttonsExp button{
+  border: 0;
+}
+
+
+
+/*Main */
+.mostreAsTarefas{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+/*Main -> Create Tarefas*/
+.ConteinerCriacaoTemas{
+  margin: 5% 20%;
+  width: auto;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+  
+}
+
+.ConteinerCriacaoTemas input, textarea, button{
+  width: 300px;
+  margin: 10px;
+  height: 60px;
+}
+.ConteinerCriacaoTemas textarea{
+  width: 260px;
+  margin: 10px;
+  height: 60px;
+}
+
+.verComoFicaCriacaoTema{
+  padding: 5%;
+}
+
+
+/*Main -> TarefaCadaTema */
+.TemaDeTarefaIndividual{
+  margin: 5% 1%;
+}
+
+.TarefaCadaTema{
+  width: 400px;
+  max-width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.TarefaCadaTema input{
+    height: 100%;
+  
+}
+
+.TarefaCadaTema button{
+  height: 10px;
+}
+
+
+.menuDeOp{
+  display: flex;
+  flex-direction: column;
+}
+.menuDeOp button{
+  height: auto;
+  width: auto;
+}
+
+.menuDeOp2{
+  display: flex;
+  flex-direction: column;
+}
+.menuDeOp2 input{
+  height: 40px;
+  width: 100%;
+}
+.menuDeOp2 textarea{
+  height: 40px;
+  width: 100%;
+
+}
+.menuDeOp2 button{
+  height: 40px;
+
+  width: 100%;
+}
+
+.classeParaExpandir{
+  padding: 10px;
+}
+
+
+/*TarefaCadaTema -> InputTarefaPorTema*/
+.classeParaCriarTarefasDeCadaTema{
+  margin: 5% 1%;
+  width: auto;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between; 
+
+  
+}
+.classeParaCriarTarefasDeCadaTema input{
+  border: 0px solid black;
+}
+.classeParaCriarTarefasDeCadaTema input{
+    width: 100%;
+}
+
+
+/*TarefaCadaTema -> CadaTarefaIndividual*/
+.TarefaCadaTemaIndividual button{
+  height: auto;
+  width: auto;
+}
+
+
+
+/*Footer*/
+.Footer{
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
