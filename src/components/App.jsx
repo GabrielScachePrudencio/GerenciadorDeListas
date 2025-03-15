@@ -17,7 +17,6 @@ function App(){
 
     return (
         <div className="container">
-            <b>DEIXAR BONITO fazer animaçoes</b>
             
 
             <Header setColunaTrue={setColunaTrue} colunaTrue={colunaTrue} comecar={comecar} jaCriou={jaCriou} setJaCriou={setJaCriou} claroEscuro={claroEscuro} setClaroEscuro={setClaroEscuro} />
