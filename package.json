@@ -2,7 +2,7 @@
   "name": "tips-keeper-exercicio-parte-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gabrielscacheprudencio.github.io/Gerenciador-de-Listas/",
+  "homepage": "https://gabrielscacheprudencio.github.io/GerenciadorDeListas/",
 
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
@@ -16,7 +16,6 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
@@ -25,14 +24,12 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-
   "eslintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"
     ]
   },
-
   "browserslist": {
     "production": [
       ">0.2%",
@@ -45,7 +42,6 @@
       "last 1 safari version"
     ]
   },
-
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
