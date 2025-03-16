@@ -1,74 +1,38 @@
-<<<<<<< HEAD
-# Gerenciador-de-Listas
-=======
-# Getting Started with Create React App
+📢 Apresentando o Gerenciador de Listas! 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Estou empolgado para compartilhar meu mais novo projeto: Gerenciador de Listas! 
 
-## Available Scripts
+Com essa aplicação web, você pode criar blocos personalizáveis, adicionar tarefas ilimitadas e organizar tudo da maneira que quiser, movendo blocos e tarefas livremente! 
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+🛠 Tecnologias usadas:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+⚛️ React | 🎨 HTML & CSS | 🚀 JavaScript
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+Principais Funcionalidades:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+✅ Criação de Blocos para separar suas tarefas por categorias.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ ✅ Adição de Tarefas dentro de cada bloco.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ ✅ Drag & Drop para organizar tudo do seu jeito.
 
-### `npm run eject`
+ ✅ Interface Intuitiva e responsiva.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+📌 Repositório no GitHub:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+ 🔗 https://lnkd.in/gEE4rdNt
+![image](https://github.com/user-attachments/assets/21752d32-0a6d-4292-8ec6-4a93dbb88129)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+💬 Deixe algum feedback nos comentários! 
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> c3aea09 (Primeiro commit)
+hashtag#React hashtag#JavaScript hashtag#DesenvolvimentoWeb hashtag#Projetos hashtag#OpenSource hashtag#GerenciadorDeListas
